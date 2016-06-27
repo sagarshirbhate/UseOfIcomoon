@@ -12,6 +12,8 @@
 		AA80733A1D213F1D006918A5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AA8073381D213F1D006918A5 /* Main.storyboard */; };
 		AA80733C1D213F1D006918A5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AA80733B1D213F1D006918A5 /* Assets.xcassets */; };
 		AA80733F1D213F1D006918A5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AA80733D1D213F1D006918A5 /* LaunchScreen.storyboard */; };
+		AA8073471D213F47006918A5 /* icomoon.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AA8073461D213F36006918A5 /* icomoon.ttf */; };
+		AA8073481D213F4B006918A5 /* icomoon.ttf in Sources */ = {isa = PBXBuildFile; fileRef = AA8073461D213F36006918A5 /* icomoon.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,7 @@
 		AA80733B1D213F1D006918A5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AA80733E1D213F1D006918A5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AA8073401D213F1D006918A5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AA8073461D213F36006918A5 /* icomoon.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = icomoon.ttf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +63,7 @@
 				AA80733B1D213F1D006918A5 /* Assets.xcassets */,
 				AA80733D1D213F1D006918A5 /* LaunchScreen.storyboard */,
 				AA8073401D213F1D006918A5 /* Info.plist */,
+				AA8073461D213F36006918A5 /* icomoon.ttf */,
 			);
 			path = UseOfIcomoonFont;
 			sourceTree = "<group>";
@@ -122,6 +126,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AA8073471D213F47006918A5 /* icomoon.ttf in Resources */,
 				AA80733F1D213F1D006918A5 /* LaunchScreen.storyboard in Resources */,
 				AA80733C1D213F1D006918A5 /* Assets.xcassets in Resources */,
 				AA80733A1D213F1D006918A5 /* Main.storyboard in Resources */,
@@ -135,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AA8073481D213F4B006918A5 /* icomoon.ttf in Sources */,
 				AA8073371D213F1D006918A5 /* ViewController.swift in Sources */,
 				AA8073351D213F1D006918A5 /* AppDelegate.swift in Sources */,
 			);
